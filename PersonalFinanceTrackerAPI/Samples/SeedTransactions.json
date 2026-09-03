@@ -1,0 +1,534 @@
+{
+  "description": "Sample transactions to demonstrate all AI agents with realistic scenarios",
+  "userId": "sample-user-001",
+  "transactions": [
+    {
+      "description": "Salary credit from Acme Corp",
+      "amount": 75000,
+      "type": "Income",
+      "category": "Salary",
+      "date": "2026-05-01"
+    },
+    {
+      "description": "Monthly rent payment",
+      "amount": 12000,
+      "type": "Expense",
+      "category": "Housing",
+      "date": "2026-05-02"
+    },
+    {
+      "description": "Groceries from BigBasket",
+      "amount": 3500,
+      "type": "Expense",
+      "category": "Groceries",
+      "date": "2026-05-05"
+    },
+    {
+      "description": "Monthly electricity bill",
+      "amount": 1200,
+      "type": "Expense",
+      "category": "Utilities",
+      "date": "2026-07-05"
+    },
+    {
+      "description": "Internet and broadband",
+      "amount": 1000,
+      "type": "Expense",
+      "category": "Utilities",
+      "date": "2026-07-05"
+    },
+    {
+      "description": "Swiggy dinner order",
+      "amount": 850,
+      "type": "Expense",
+      "category": "Dining",
+      "date": "2026-05-07"
+    },
+    {
+      "description": "Netflix and Spotify",
+      "amount": 800,
+      "type": "Expense",
+      "category": "Entertainment",
+      "date": "2026-07-07"
+    },
+    {
+      "description": "Medical insurance premium",
+      "amount": 3000,
+      "type": "Expense",
+      "category": "Insurance",
+      "date": "2026-05-08"
+    },
+    {
+      "description": "Fuel for bike",
+      "amount": 1500,
+      "type": "Expense",
+      "category": "Transportation",
+      "date": "2026-05-10"
+    },
+    {
+      "description": "Weekend dining at Zomato",
+      "amount": 2200,
+      "type": "Expense",
+      "category": "Dining",
+      "date": "2026-05-12"
+    },
+    {
+      "description": "Movie and popcorn",
+      "amount": 1200,
+      "type": "Expense",
+      "category": "Entertainment",
+      "date": "2026-05-13"
+    },
+    {
+      "description": "Amazon shopping",
+      "amount": 3500,
+      "type": "Expense",
+      "category": "Shopping",
+      "date": "2026-05-14"
+    },
+    {
+      "description": "Gym membership",
+      "amount": 1500,
+      "type": "Expense",
+      "category": "Health",
+      "date": "2026-05-15"
+    },
+    {
+      "description": "Gift for friend",
+      "amount": 2500,
+      "type": "Expense",
+      "category": "Gifts",
+      "date": "2026-05-16"
+    },
+    {
+      "description": "Monthly savings transfer to FD",
+      "amount": 10000,
+      "type": "Savings",
+      "category": "Savings",
+      "date": "2026-05-17"
+    },
+
+    {
+      "description": "Medical emergency - pharmacy",
+      "amount": 3200,
+      "type": "Expense",
+      "category": "Healthcare",
+      "date": "2026-05-20"
+    },
+    {
+      "description": "New phone charger on Amazon",
+      "amount": 1200,
+      "type": "Expense",
+      "category": "Shopping",
+      "date": "2026-05-21"
+    },
+
+    {
+      "description": "Monthly salary credit",
+      "amount": 75000,
+      "type": "Income",
+      "category": "Salary",
+      "date": "2026-06-01"
+    },
+    {
+      "description": "August rent payment",
+      "amount": 12000,
+      "type": "Expense",
+      "category": "Housing",
+      "date": "2026-06-02"
+    },
+    {
+      "description": "Monthly groceries",
+      "amount": 4200,
+      "type": "Expense",
+      "category": "Groceries",
+      "date": "2026-06-06"
+    },
+    {
+      "description": "Electricity bill - higher due to summer",
+      "amount": 1800,
+      "type": "Expense",
+      "category": "Utilities",
+      "date": "2026-08-06"
+    },
+    {
+      "description": "Weekend trip - Goa",
+      "amount": 8500,
+      "type": "Expense",
+      "category": "Travel",
+      "date": "2026-06-10"
+    },
+    {
+      "description": "Dinner at BBQ Tonight",
+      "amount": 2800,
+      "type": "Expense",
+      "category": "Dining",
+      "date": "2026-06-14"
+    },
+    {
+      "description": "New running shoes",
+      "amount": 4500,
+      "type": "Expense",
+      "category": "Shopping",
+      "date": "2026-06-16"
+    },
+    {
+      "description": "Monthly savings",
+      "amount": 10000,
+      "type": "Savings",
+      "category": "Savings",
+      "date": "2026-06-18"
+    },
+
+    {
+      "description": "September salary",
+      "amount": 75000,
+      "type": "Income",
+      "category": "Salary",
+      "date": "2026-07-01"
+    },
+    {
+      "description": "Rent payment",
+      "amount": 12000,
+      "type": "Expense",
+      "category": "Housing",
+      "date": "2026-07-02"
+    },
+    {
+      "description": "Festival shopping - clothes and gifts",
+      "amount": 15000,
+      "type": "Expense",
+      "category": "Shopping",
+      "date": "2026-07-10"
+    },
+    {
+      "description": "Grocery and festival items",
+      "amount": 6500,
+      "type": "Expense",
+      "category": "Groceries",
+      "date": "2026-07-11"
+    },
+    {
+      "description": "Family dinner at restaurant",
+      "amount": 4200,
+      "type": "Expense",
+      "category": "Dining",
+      "date": "2026-07-12"
+    },
+    {
+      "description": "Travel tickets for festival",
+      "amount": 5000,
+      "type": "Expense",
+      "category": "Travel",
+      "date": "2026-07-13"
+    },
+
+    {
+      "description": "ANOMALY - Luxury handbag purchase",
+      "amount": 45000,
+      "type": "Expense",
+      "category": "Shopping",
+      "date": "2026-07-15"
+    },
+    {
+      "description": "Possible duplicate - Swiggy order",
+      "amount": 850,
+      "type": "Expense",
+      "category": "Dining",
+      "date": "2026-09-07"
+    },
+    {
+      "description": "Possible duplicate - Swiggy order",
+      "amount": 850,
+      "type": "Expense",
+      "category": "Dining",
+      "date": "2026-09-07"
+    },
+    {
+      "description": "ANOMALY - Unusual high education course fee",
+      "amount": 18000,
+      "type": "Expense",
+      "category": "Education",
+      "date": "2026-07-18"
+    },
+    {
+      "description": "Monthly savings",
+      "amount": 10000,
+      "type": "Savings",
+      "category": "Savings",
+      "date": "2026-07-20"
+    }
+  ],
+  "testScenarios": {
+    "naturalLanguage": [
+      "Spent ₹500 on tea and snacks",
+      "Paid ₹900 for Uber ride",
+      "Received ₹1200 from friend for dinner split",
+      "Bought phone case ₹350"
+    ],
+    "Agent1 output-NLP trnsaction creation":
+      [
+        {
+          "id": 61,
+          "date": "2026-07-19T15:33:23.8275289Z",
+          "type": "Expense",
+          "category": "Food",
+          "amount": 500,
+          "description": "tea and snacks",
+          "userId": "fa56f87f-2491-4d16-9629-dfbc4b854c35"
+        },
+        {
+          "id": 62,
+          "date": "2026-07-19T15:33:23.8340328Z",
+          "type": "Expense",
+          "category": "Travel",
+          "amount": 900,
+          "description": "Uber ride",
+          "userId": "fa56f87f-2491-4d16-9629-dfbc4b854c35"
+        },
+        {
+          "id": 63,
+          "date": "2026-07-19T15:33:23.8340698Z",
+          "type": "Income",
+          "category": "Other",
+          "amount": 1200,
+          "description": "dinner split",
+          "userId": "fa56f87f-2491-4d16-9629-dfbc4b854c35"
+        },
+        {
+          "id": 64,
+          "date": "2026-07-19T15:33:23.8340825Z",
+          "type": "Expense",
+          "category": "Shopping",
+          "amount": 350,
+          "description": "phone case",
+          "userId": "fa56f87f-2491-4d16-9629-dfbc4b854c35"
+        }
+    ],
+    "Agent2 output-Insights Generation":
+      [
+        {
+          "type": "Risk",
+          "category": "Medical",
+          "insight": "Medical expenses account for over 34% of your total spending and surged by 1,233% last month. This volatility suggests an unbudgeted health crisis or lack of insurance coverage, which threatens your ability to maintain a positive net savings rate.",
+          "generatedAt": "2026-07-19T15:36:24.2826066Z"
+        },
+        {
+          "type": "Trend",
+          "category": "Cash Flow",
+          "insight": "Your July performance resulted in a negative net savings of $32,950, a sharp reversal from the previous two months. You are currently spending nearly 90% of your income, leaving you with an extremely thin margin of safety for emergencies.",
+          "generatedAt": "2026-07-19T15:36:24.2826067Z"
+        },
+        {
+          "type": "Recommendation",
+          "category": "Recurring Expenses",
+          "insight": "With $135,150 tied up in just five recurring expenses, you have very little flexibility in your monthly budget. You should audit these specific line items to see if any can be renegotiated or eliminated to lower your fixed cost floor.",
+          "generatedAt": "2026-07-19T15:36:24.2826068Z"
+        },
+        {
+          "type": "Warning",
+          "category": "Budgeting",
+          "insight": "Your savings rate of 10.65% is significantly lower than recommended benchmarks for your income level. Given your high average transaction value of $5,774, you are prone to large, irregular outflows that prevent consistent wealth accumulation.",
+          "generatedAt": "2026-07-19T15:36:24.2826068Z"
+        },
+        {
+          "type": "Positive",
+          "category": "Savings",
+          "insight": "Despite high medical and fixed costs, you have consistently allocated $20,000 toward savings. Maintaining this habit is critical; prioritize automating this transfer at the start of the month to ensure it remains a non-negotiable expense.",
+          "generatedAt": "2026-07-19T15:36:24.2826069Z"
+        }
+      ],
+    "budgetGoal": {
+      "targetSavings": 150000,
+      "months": 3
+    },
+    "Agent3 output-BudgetGoalAssitant":
+      {
+    "targetSavings": 150000,
+    "currentSavings": 24100,
+    "savingsGap": 41966.666666666664,
+    "monthlySavingsTarget": 50000,
+    "currentMonthlySavings": 8033.333333333333,
+    "recommendations": [
+      {
+        "category": "Medical",
+        "currentSpending": 69200,
+        "recommendedSpending": 54830.413986475345,
+        "reductionAmount": 14369.586013524651,
+        "reason": "This category represents 34.2% of your total spending",
+        "priority": "High"
+      },
+      {
+        "category": "Rent",
+        "currentSpending": 36000,
+        "recommendedSpending": 28524.49282533399,
+        "reductionAmount": 7475.507174666011,
+        "reason": "This category represents 17.8% of your total spending",
+        "priority": "Medium"
+      },
+      {
+        "category": "Savings",
+        "currentSpending": 20000,
+        "recommendedSpending": 15846.940458518888,
+        "reductionAmount": 4153.059541481113,
+        "reason": "This category represents 9.9% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Bills",
+        "currentSpending": 18000,
+        "recommendedSpending": 14262.246412666998,
+        "reductionAmount": 3737.7535873330016,
+        "reason": "This category represents 8.9% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Education",
+        "currentSpending": 14200,
+        "recommendedSpending": 11251.327725548408,
+        "reductionAmount": 2948.672274451592,
+        "reason": "This category represents 7.0% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Fuel",
+        "currentSpending": 13500,
+        "recommendedSpending": 10696.68480950025,
+        "reductionAmount": 2803.315190499751,
+        "reason": "This category represents 6.7% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Utilities",
+        "currentSpending": 11750,
+        "recommendedSpending": 9310.077519379845,
+        "reductionAmount": 2439.9224806201537,
+        "reason": "This category represents 5.8% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Groceries",
+        "currentSpending": 4000,
+        "recommendedSpending": 3169.3880917037773,
+        "reductionAmount": 830.6119082962225,
+        "reason": "This category represents 2.0% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Healthcare",
+        "currentSpending": 3200,
+        "recommendedSpending": 2535.51047336302,
+        "reductionAmount": 664.4895266369797,
+        "reason": "This category represents 1.6% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Insurance",
+        "currentSpending": 3000,
+        "recommendedSpending": 2377.041068777833,
+        "reductionAmount": 622.9589312221669,
+        "reason": "This category represents 1.5% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Gifts",
+        "currentSpending": 2500,
+        "recommendedSpending": 1980.867557314861,
+        "reductionAmount": 519.1324426851392,
+        "reason": "This category represents 1.2% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Housing",
+        "currentSpending": 2000,
+        "recommendedSpending": 1584.6940458518884,
+        "reductionAmount": 415.3059541481117,
+        "reason": "This category represents 1.0% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Health",
+        "currentSpending": 1500,
+        "recommendedSpending": 1188.5205343889165,
+        "reductionAmount": 311.47946561108347,
+        "reason": "This category represents 0.7% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Transportation",
+        "currentSpending": 1500,
+        "recommendedSpending": 1188.5205343889165,
+        "reductionAmount": 311.47946561108347,
+        "reason": "This category represents 0.7% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Travel",
+        "currentSpending": 900,
+        "recommendedSpending": 713.1123206333499,
+        "reductionAmount": 186.88767936665008,
+        "reason": "This category represents 0.4% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Food",
+        "currentSpending": 500,
+        "recommendedSpending": 396.17351146297216,
+        "reductionAmount": 103.82648853702781,
+        "reason": "This category represents 0.2% of your total spending",
+        "priority": "Low"
+      },
+      {
+        "category": "Shopping",
+        "currentSpending": 350,
+        "recommendedSpending": 277.3214580240805,
+        "reductionAmount": 72.67854197591947,
+        "reason": "This category represents 0.2% of your total spending",
+        "priority": "Low"
+      }
+    ],
+    "actionPlan": "To reach your goal of saving ₹150,000 in 3 months, we need to bridge a monthly gap of approximately ₹14,000. This plan focuses on high-impact lifestyle adjustments and small, consistent optimizations.\n\nPhase 1: Immediate Impact (Weeks 1-2)\nFocus on the high-priority categories to secure the bulk of your savings.\nMedical: Review your current medical expenses. If these are recurring pharmacy bills, switch to platforms like Tata 1mg or Apollo 24/7 to leverage 15-20% discounts on medicines. If these are consultations, check if your employer provides corporate health benefits or if you can utilize government-subsidized Jan Aushadhi stores for generic alternatives.\nRent: This is your second-largest expense. If you are in a shared space, negotiate the maintenance charges or look for a slightly more cost-effective society nearby. If you are paying high brokerage, ensure you are not overpaying for amenities you don't use.\nBills: Audit your subscriptions. Cancel unused OTT platforms (Netflix, Prime, Hotstar) and keep only one active. Switch your mobile plan to a quarterly prepaid pack instead of expensive monthly postpaid bills.\n\nPhase 2: Lifestyle Optimization (Weeks 3-4)\nFocus on recurring daily expenses that bleed your budget.\nFuel: Optimize your commute. Use public transport or the Metro twice a week to save on fuel and parking. If you drive, ensure your tire pressure is optimal to improve mileage.\nUtilities: Reduce electricity consumption by switching to LED bulbs and being mindful of AC usage. Use the 'Energy Saver' mode on appliances.\nGroceries: Stop ordering groceries via quick-commerce apps (Blinkit/Zepto) for small items, as they carry high delivery fees and platform markups. Buy monthly staples in bulk from local wholesale markets or D-Mart.\n\nPhase 3: Habitual Discipline (Month 2 onwards)\nFocus on the smaller, discretionary categories to ensure you hit the target.\nEducation & Healthcare: Review your recurring educational subscriptions or courses. If you are paying for premium health apps or gym memberships you rarely use, pause them for these 3 months.\nFood & Shopping: Limit Swiggy/Zomato to once a week. Use UPI-based cashback offers (Paytm/Google Pay) for utility bill payments. Avoid impulse shopping on Amazon/Flipkart by keeping items in your cart for 48 hours before purchasing.\nGifts & Travel: Set a strict \"no-gift\" policy for non-essential occasions during this 3-month sprint. Opt for local travel instead of weekend getaways.\n\nTracking Method:\nCreate a simple \"Savings Tracker\" on a Google Sheet or a physical notebook. Every Sunday evening, perform a 10-minute \"Financial Audit.\" Log your total UPI spends for the week against your target. If you overspend in one category, adjust by cutting back in another for the following week. Use the \"50-30-20\" rule as a guide, but for these 90 days, aim for a \"40-30-30\" split to prioritize your goal.\n\nMotivational Message:\nYou are already doing a great job by tracking your expenses so precisely. Saving ₹150,000 in 90 days is an ambitious goal, but it is entirely achievable through small, daily choices. Remember, this is a short-term sprint, not a permanent lifestyle change. Every time you choose to cook at home instead of ordering in, or walk instead of taking a cab, you are one step closer to your financial freedom. Stay focused, stay disciplined, and keep your eyes on the reward. You have the control—make it count!",
+    "generatedAt": "2026-07-19T15:37:59.2384184Z"
+  }
+    ,
+    "anomalyDetection": {
+      "months": 3,
+      "threshold": 50
+    },
+    "Agent4 output-Anamoly detetction":
+      {
+    "anomalies": [
+      {
+        "transactionId": 56,
+        "date": "2026-07-15T00:00:00",
+        "category": "Medical",
+        "amount": 45000,
+        "averageForCategory": 13840,
+        "deviationPercentage": 225.14,
+        "severity": "High",
+        "explanation": "This medical expense is significantly higher than your typical spending in this category, so you may want to verify if this was a one-time procedure or an unexpected billing error.",
+        "anomalyType": "Spike"
+      },
+      {
+        "transactionId": 54,
+        "date": "2026-07-12T00:00:00",
+        "category": "Utilities",
+        "amount": 4200,
+        "averageForCategory": 1958.3333333333333,
+        "deviationPercentage": 114.47,
+        "severity": "High",
+        "explanation": "This utility payment is notably above your average, which could be due to seasonal fluctuations, a billing cycle adjustment, or a potential issue with your service provider.",
+        "anomalyType": "Spike"
+      }
+    ],
+    "summary": {
+      "totalAnomaliesFound": 2,
+      "highSeverityCount": 2,
+      "mediumSeverityCount": 0,
+      "lowSeverityCount": 0,
+      "overallInsight": "Two high-severity anomalies were identified in your recent transactions; reviewing these charges can help ensure your records are accurate and assist in identifying any unusual billing patterns."
+    }
+  }
+  }
+}
+
